@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-#///.coded by cabdulahi sharif
+#///.coded by Nicoleus Sitorus
 import time
 import os,sys
 from my import see
@@ -46,10 +46,10 @@ banner= C+p+"""
               
           [FBR Facebook Hacking Tool]
         [@Created By Nicoleus Sitorus    ]      """+C+p+"""
-             Youtube Channel: Ady sitorus ady
+             Youtube Channel: ady sitorus ady
              Facebook: Nicoleus Sitorus ------------------------------------------"""
 print banner
-me = (C+p+'[💡]Nicoleus=>> ')
+me = (C+p+'[💡]Cabdulahi=>> ')
 oh= time.sleep(1)
 
 

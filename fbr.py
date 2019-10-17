@@ -3,9 +3,9 @@
 #///.coded by Nicoleus Sitorus
 import time
 import os,sys
-from my import see
-from my import fbreport
-from my import fbbrute
+from  import see
+from  import fbreport
+from  import fbbrute
 os.system("clear")
 
 def prRed(skk): print("\033[91m {}\033[00m" .format(skk)) 
